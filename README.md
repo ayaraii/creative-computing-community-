@@ -1,4 +1,4 @@
-# A-tragedy-in-the-making-
+# How-creative-computing-benefits-our-society
 I will be exploring how creative computing benefits our society and helps us learn more about the world around us 
 
 **Introduction** 
@@ -35,11 +35,15 @@ https://www.npr.org/2020/02/09/800410394/amid-lebanons-economic-crisis-the-count
 https://www.bbc.co.uk/news/world-middle-east-53668493
 
 **FIRST DRAFT**
+
 ![image](https://user-images.githubusercontent.com/93553075/140459374-961b0da3-0e92-40fb-9b34-88ae2634f426.png)
 My first idea was to create a series of numbers that would form the lebanase flag. Some of the numbers would be a link that would give you access to news about lebanon. Each number/series of numbers is equivalent to a number of victims, cases, percentages that relate to the crisis in lebanon. For example, the number 55 is the poverty rate in Lebanon today. I chose to use numbers because if a person sees a number they would be curious to find out what it means how it relates to Lebanon. Its a more interesting and creative way of presenting the news.  
 
 After testing and creating different prototypes, I decided to use the word "LEBANON" instead of the flag. I then placed the numbers and their meaning.
+
 FINAL PROPOSAL 
+
 ![image](https://user-images.githubusercontent.com/93553075/140455778-8c3e1e88-2f55-4293-8f97-5bc2530263cd.png)
 
 My goal creating this proposal is to help raise awarness, encourage knowledge discovery and introduce computing to make our lives easier. 
+I believe creative computing is going to keep people curious and will develop in a way that's even more interactive and interesting.
