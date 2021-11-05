@@ -41,7 +41,7 @@ My first idea was to create a series of numbers that would form the lebanase fla
 
 After testing and creating different prototypes, I decided to use the word "LEBANON" instead of the flag. I then placed the numbers and their meaning.
 
-FINAL PROPOSAL 
+FINAL PROPOSAL : A tragedy in thr making
 
 ![image](https://user-images.githubusercontent.com/93553075/140455778-8c3e1e88-2f55-4293-8f97-5bc2530263cd.png)
 
