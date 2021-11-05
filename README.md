@@ -12,6 +12,7 @@ I began by learning more about creative computing and physical computing (arduin
 ![image](https://user-images.githubusercontent.com/93553075/140457967-7247d1ee-56b8-4566-93ee-ae81fbdd7f74.png)
 
 References that helped with my research
+
 https://societycentered.design/
 
 https://experiments.withgoogle.com/collection/digitalwellbeing
@@ -24,6 +25,7 @@ My idea is to use creative computing to have easier access to new and informatio
 I started with researching information about the issues in Lebanon and how i can represent them using creative computing 
 
 These are some references i used for updated news about Lebanon
+
 https://www.aljazeera.com/news/2021/4/12/infographic-how-much-do-everyday-items-costs-in-lebanon
 
 https://www.hrw.org/report/2021/08/03/they-killed-us-inside/investigation-august-4-beirut-blast#
