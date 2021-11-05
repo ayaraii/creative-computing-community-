@@ -10,5 +10,4 @@ Computing has been a very helpful when supporting human creativity. Computationa
 I started off with researching what creative computing is and I learned about physical computing (arduino and open source)
 
 ![image](https://user-images.githubusercontent.com/93553075/140457967-7247d1ee-56b8-4566-93ee-ae81fbdd7f74.png)
-
 ![image](https://user-images.githubusercontent.com/93553075/140455778-8c3e1e88-2f55-4293-8f97-5bc2530263cd.png)
