@@ -37,7 +37,7 @@ https://www.bbc.co.uk/news/world-middle-east-53668493
 **FIRST DRAFT**
 
 ![image](https://user-images.githubusercontent.com/93553075/140459374-961b0da3-0e92-40fb-9b34-88ae2634f426.png)
-My first idea was to create a series of numbers that would form the lebanase flag. Some of the numbers would be a link that would give you access to news about lebanon. Each number/series of numbers is equivalent to a number of victims, cases, percentages that relate to the crisis in lebanon. For example, the number 55 is the poverty rate in Lebanon today. I chose to use numbers because if a person sees a number they would be curious to find out what it means how it relates to Lebanon. Its a more interesting and creative way of presenting the news.  
+My first idea was to create a series of numbers that would form the lebanase flag. Some of the numbers would be a link that would give you access to news about lebanon. Each number/series of numbers is equivalent to a number of victims, cases, percentages that relate to the crisis in lebanon. For example, the number 55 is the poverty rate in Lebanon today. I chose to use numbers because if a person sees a number they would be curious to find out what it means and how it relates to Lebanon. It's a more interesting and creative way of presenting the news.  
 
 After testing and creating different prototypes, I decided to use the word "LEBANON" instead of the flag. I then placed the numbers and their meaning.
 
