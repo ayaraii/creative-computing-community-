@@ -7,14 +7,23 @@ Computing has been a very helpful when supporting human creativity. Computationa
 
 **Learning about creative computing**
 
-I started off with researching what creative computing is and I learned about physical computing (arduino and open source)
+I began by learning more about creative computing and physical computing (arduino and open source) as well as testing my skills.
 
 ![image](https://user-images.githubusercontent.com/93553075/140457967-7247d1ee-56b8-4566-93ee-ae81fbdd7f74.png)
 
+References that helped with my research
 https://societycentered.design/
+https://experiments.withgoogle.com/collection/digitalwellbeing
+https://www.youtube.com/watch?v=2jlt-1E1Ee0&t=824s
 
 **THE IDEA**
 
 My idea is to use creative computing to have easier access to new and information about the world surrounding me. I am lebanese and so I decided to give the example of the situation in Lebanon right now and how the explosion of August 4th 2020 and many other factors lead to where we are today. 
+
+**FIRST DRAFT**
+![image](https://user-images.githubusercontent.com/93553075/140459374-961b0da3-0e92-40fb-9b34-88ae2634f426.png)
+
+My goal was to help raise awarness, knowledge discovery and introducing computing to make our lives easier. 
+
 
 ![image](https://user-images.githubusercontent.com/93553075/140455778-8c3e1e88-2f55-4293-8f97-5bc2530263cd.png)
