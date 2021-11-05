@@ -13,7 +13,9 @@ I began by learning more about creative computing and physical computing (arduin
 
 References that helped with my research
 https://societycentered.design/
+
 https://experiments.withgoogle.com/collection/digitalwellbeing
+
 https://www.youtube.com/watch?v=2jlt-1E1Ee0&t=824s
 
 **THE IDEA**
@@ -23,8 +25,11 @@ I started with researching information about the issues in Lebanon and how i can
 
 These are some references i used for updated news about Lebanon
 https://www.aljazeera.com/news/2021/4/12/infographic-how-much-do-everyday-items-costs-in-lebanon
+
 https://www.hrw.org/report/2021/08/03/they-killed-us-inside/investigation-august-4-beirut-blast#
+
 https://www.npr.org/2020/02/09/800410394/amid-lebanons-economic-crisis-the-countrys-health-care-system-is-ailing?t=1636077092386
+
 https://www.bbc.co.uk/news/world-middle-east-53668493
 
 **FIRST DRAFT**
